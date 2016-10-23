@@ -1,4 +1,4 @@
-# Angular 2 Resources
+#Angular 2 Resources
 
 ##Angular.io
 https://angular.io/docs/ts/latest/guide/
@@ -34,9 +34,24 @@ https://github.com/akserg/ng2-dnd
 
 ##Youtube
 
-# NativeScript Resources
+https://www.youtube.com/user/angularjs
+
+[AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
+
+[AngularAir](https://www.youtube.com/channel/UCdCOpvRk1lsBk26ePGDPLpQ)
+
+https://www.youtube.com/user/programmingwithmosh
+
+#NativeScript Resources
+
+##Github
 
 https://github.com/NativeScript/NativeScript
 
 https://github.com/NativeScript/nativescript-angular
 
+##Youtube
+
+[NativeScript](https://www.youtube.com/channel/UCORcUyJOXjF4PbwCP6R6dGw)
+
+https://www.youtube.com/user/nicraboy
