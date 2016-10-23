@@ -32,15 +32,23 @@ https://github.com/akveo/ng2-admin
 
 https://github.com/akserg/ng2-dnd
 
-##Youtube
+##Youtube Channel
 
-https://www.youtube.com/user/angularjs
+[AngularJs](https://www.youtube.com/user/angularjs)
 
 [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
 
 [AngularAir](https://www.youtube.com/channel/UCdCOpvRk1lsBk26ePGDPLpQ)
 
-https://www.youtube.com/user/programmingwithmosh
+[Mosh Hamedani on Udemy](https://www.youtube.com/user/programmingwithmosh)
+
+[Mindspace](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+
+##Youtube Videos
+
+[Learn Angular 2 (TypeScript) by building a simple YouTube player](https://www.youtube.com/watch?v=mH4TpdwZP4A)
+
+[Angular 2 Forms - Kara Erickson](https://www.youtube.com/watch?v=xYv9lsrV0s4)
 
 #NativeScript Resources
 
@@ -50,8 +58,12 @@ https://github.com/NativeScript/NativeScript
 
 https://github.com/NativeScript/nativescript-angular
 
-##Youtube
+##Youtube Channel
 
 [NativeScript](https://www.youtube.com/channel/UCORcUyJOXjF4PbwCP6R6dGw)
 
-https://www.youtube.com/user/nicraboy
+[Nic Raboy](https://www.youtube.com/user/nicraboy)
+
+##NativeScript Videos
+
+[NativeScript 2.3 - Angular 2 Awakening!](https://www.youtube.com/watch?v=WQktviwAGb0)
